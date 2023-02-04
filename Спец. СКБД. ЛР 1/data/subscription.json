@@ -1,0 +1,59 @@
+[
+    {
+        "readersName": "Бабаєв Артем Ілліч",
+        "readersList": [
+            {
+                "libraryNumber": 2,
+                "nomenclatureNumber": "000000000",
+                "lendDate": "<2022-02-10>",
+                "givenBy":"Робітник 2"
+            },
+            {
+                "libraryNumber": 4,
+                "nomenclatureNumber": "000000001",
+                "lendDate": "<2021-12-12>",
+                "returnDate": "<2022-01-1>",
+                "givenBy":"Робітник 4",
+                "acceptedBy": "Робітник 4"
+            }
+        ]
+    },
+    {
+        "readersName": "Бабаєв Єгор Ілліч",
+        "readersList": [
+            {
+                "nomenclatureNumber": "000000003",
+                "lendDate": "2022-02-09",
+                "returnDate": ""
+            }
+        ]
+    },
+    {
+        "readersName": "Бабаєв Олексій Олекснадрович",
+        "readersList": [
+            {
+                "nomenclatureNumber": "000000002",
+                "lendDate": "2022-02-03",
+                "returnDate": ""
+            }
+        ]
+    },
+    {
+        "readersName": "Іванов Іван Іванович",
+        "readersList": [
+        ]
+    },
+    {
+        "readersName": "Прізвище ім'я по-батькові",
+        "readersList": [
+            {
+                "libraryNumber": 4,
+                "nomenclatureNumber": "000000001",
+                "lendDate": "<2021-11-05>",
+                "returnDate": "<2022-12-01>",
+                "givenBy":"Робітник 4",
+                "acceptedBy": "Робітник 4"
+            }
+        ]
+    }
+]

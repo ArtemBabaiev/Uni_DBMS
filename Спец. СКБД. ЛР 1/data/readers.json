@@ -1,0 +1,57 @@
+[
+    {
+        "fullName": "Бабаєв Артем Ілліч",
+        "phoneNumber": "+380969077503",
+        "residenceAddress": "вул. 28 червня, буд 23",
+        "birthYear": "2002",
+        "registrationDate":{"$date": "2021-01-01"},
+        "subscriptionNumber": "0000000000",
+        "occupation": "Студент",
+        "educationalInstitution": "ЧНУ",
+        "faculty":"ННІФТКН",
+        "group": "243Б"
+
+    },
+    {
+        "fullName": "Бабаєв Єгор Ілліч",
+        "phoneNumber": "+380XXXXXXXXX",
+        "residenceAddress": "вул. Волкова 23",
+        "birthYear": "2009",
+        "registrationDate":{"$date": "2019-07-21"} ,
+        "subscriptionNumber": "1000000000",
+        "occupation": "Школяр",
+        "educationalInstitution" : "Школя №71",
+        "class":"7"
+    },
+    {
+        "fullName": "Бабаєв Олексій Олекснадрович",
+        "phoneNumber": "+380XXXXXXXXX",
+        "residenceAddress": "м. Дніпро",
+        "birthYear": "1996",
+        "registrationDate":{"$date": "2020-10-17"} ,
+        "subscriptionNumber": "2000000000",
+        "occupation": "Робітник",
+        "workPlace": "Клініка Гарвіс",
+        "position": "Доктор"
+    },
+    {
+        "fullName": "Прізвище ім'я по-батькові",
+        "phoneNumber": "+380XXXXXXXXX",
+        "residenceAddress": "вул. Імені ХХ",
+        "birthYear": "1979",
+        "registrationDate":{"$date": "2021-08-03"},
+        "subscriptionNumber": "3000000000",
+        "occupation": "Науковець",
+        "workPlace": "ЧНУ",
+        "position": "Доцент кафедри"
+    },
+    {
+        "fullName": "Іванов Іван Іванович",
+        "phoneNumber": "+380XXXXXXXXX",
+        "residenceAddress": "вул. Іванова 11",
+        "birthYear": "1990",
+        "registrationDate":{"$date": "2021-01-01"},
+        "subscriptionNumber": "4000000000",
+        "occupation": "Пенсіонер"
+    }
+]

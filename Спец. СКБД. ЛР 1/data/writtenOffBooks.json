@@ -1,0 +1,39 @@
+[
+    {
+        "nomenclatureNumber": "99999999999",
+        "name": "Эксплуатация подъемных сооружений",
+        "yearOfPublishing": "1970",
+        "publisher": "Техніка",
+        "dateOfWriteOff": "<2015-04-13>"
+    },
+    {
+        "nomenclatureNumber": "99999999998",
+        "name": "Сочинения, томм первый",
+        "author":"Агата Крісті",
+        "yearOfPublishing": "1992",
+        "publisher": "Художественная литература",
+        "dateOfWriteOff": "<2014-05-16>"
+    },
+    {
+        "nomenclatureNumber": "99999999997",
+        "name": "Сніги Кіліманджаро",
+        "yearOfPublishing": "1968",
+        "author":"Ернест Хемінгуей",
+        "publisher": "Дніпро",
+        "dateOfWriteOff": "<2010-12-11>"
+    },
+    {
+        "nomenclatureNumber": "99999999996",
+        "name": "Проектирование металлорежущих инструментов",
+        "yearOfPublishing": "1963",
+        "publisher": "МАШГИЗ",
+        "dateOfWriteOff": "<2015-04-13>"
+    },
+    {
+        "nomenclatureNumber": "99999999995",
+        "name": "Скарби України",
+        "yearOfPublishing": "1991",
+        "publisher": "Веселка",
+        "dateOfWriteOff": "<2014-05-30>"
+    }
+]

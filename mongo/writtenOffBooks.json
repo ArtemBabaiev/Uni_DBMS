@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "620d494badfe14c5dc300973"
+  },
+  "nomenclatureNumber": "99999999999",
+  "name": "Эксплуатация подъемных сооружений",
+  "yearOfPublishing": 1970,
+  "publisher": "Техніка",
+  "dateOfWriteOff": {
+    "$date": {
+      "$numberLong": "1428872400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620d494badfe14c5dc300974"
+  },
+  "nomenclatureNumber": "99999999998",
+  "name": "Сочинения, томм первый",
+  "author": "Агата Крісті",
+  "yearOfPublishing": 1992,
+  "publisher": "Художественная литература",
+  "dateOfWriteOff": {
+    "$date": {
+      "$numberLong": "1400187600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620d494badfe14c5dc300975"
+  },
+  "nomenclatureNumber": "99999999997",
+  "name": "Сніги Кіліманджаро",
+  "yearOfPublishing": 1968,
+  "author": "Ернест Хемінгуей",
+  "publisher": "Дніпро",
+  "dateOfWriteOff": {
+    "$date": {
+      "$numberLong": "1292018400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620d494badfe14c5dc300976"
+  },
+  "nomenclatureNumber": "99999999996",
+  "name": "Проектирование металлорежущих инструментов",
+  "yearOfPublishing": 1963,
+  "publisher": "МАШГИЗ",
+  "dateOfWriteOff": {
+    "$date": {
+      "$numberLong": "1428872400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620d494badfe14c5dc300977"
+  },
+  "nomenclatureNumber": "99999999995",
+  "name": "Скарби України",
+  "yearOfPublishing": 1991,
+  "publisher": "Веселка",
+  "dateOfWriteOff": {
+    "$date": {
+      "$numberLong": "1401397200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "111111111111111111111111"
+  },
+  "author": "Джон Роналд Руел Толкін",
+  "dateOfWriteOff": "2022-02-01T00:00:00.000+00:00",
+  "name": "Гобіт, або туди і звідти",
+  "nomenclatureNumber": "000000000",
+  "publisher": "Астролябія",
+  "yearOfPublishing": 2021
+}]

@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "620d4941adfe14c5dc30096c"
+  },
+  "readersList": [
+    {
+      "libraryNumber": {
+        "$ref": "libraries",
+        "$id": {
+          "$oid": "620d48dbadfe14c5dc300940"
+        }
+      },
+      "book": {
+        "$ref": "literature",
+        "$id": {
+          "$oid": "620d4bd5adfe14c5dc30097c"
+        }
+      },
+      "lendDate": {
+        "$date": {
+          "$numberLong": "1644451200000"
+        }
+      },
+      "givenBy": {
+        "$ref": "employees",
+        "$id": {
+          "$oid": "620d48bdadfe14c5dc300939"
+        }
+      }
+    },
+    {
+      "libraryNumber": {
+        "$ref": "libraries",
+        "$id": {
+          "$oid": "620d48dbadfe14c5dc300942"
+        }
+      },
+      "book": {
+        "$ref": "literature",
+        "$id": {
+          "$oid": "620d4bd5adfe14c5dc30097d"
+        }
+      },
+      "lendDate": {
+        "$date": {
+          "$numberLong": "1639267200000"
+        }
+      },
+      "givenBy": {
+        "$ref": "employees",
+        "$id": {
+          "$oid": "620d48bdadfe14c5dc30093b"
+        }
+      },
+      "returnDate": {
+        "$date": {
+          "$numberLong": "1641168000000"
+        }
+      },
+      "acceptedBy": {
+        "$ref": "employees",
+        "$id": {
+          "$oid": "620d48bdadfe14c5dc30093b"
+        }
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "620d4941adfe14c5dc30096d"
+  },
+  "readersList": [
+    {
+      "nomenclatureNumber": "000000003",
+      "lendDate": "2022-02-09",
+      "returnDate": ""
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "620d4941adfe14c5dc30096e"
+  },
+  "readersList": [
+    {
+      "libraryNumber": {
+        "$ref": "libraries",
+        "$id": {
+          "$oid": "620d48dbadfe14c5dc300943"
+        }
+      },
+      "book": {
+        "$ref": "literature",
+        "$id": {
+          "$oid": "620d4bd5adfe14c5dc30097e"
+        }
+      },
+      "lendDate": {
+        "$date": {
+          "$numberLong": "1643846400000"
+        }
+      },
+      "givenBy": {
+        "$ref": "employees",
+        "$id": {
+          "$oid": "620d48bdadfe14c5dc30093c"
+        }
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "620d4941adfe14c5dc30096f"
+  },
+  "readersList": []
+},{
+  "_id": {
+    "$oid": "620d4941adfe14c5dc300970"
+  },
+  "readersList": [
+    {
+      "libraryNumber": {
+        "$ref": "libraries",
+        "$id": {
+          "$oid": "620d48dbadfe14c5dc300942"
+        }
+      },
+      "book": {
+        "$ref": "literature",
+        "$id": {
+          "$oid": "620d4bd5adfe14c5dc30097d"
+        }
+      },
+      "lendDate": {
+        "$date": {
+          "$numberLong": "1636070400000"
+        }
+      },
+      "givenBy": {
+        "$ref": "employees",
+        "$id": {
+          "$oid": "620d48bdadfe14c5dc30093b"
+        }
+      },
+      "returnDate": {
+        "$date": {
+          "$numberLong": "1638316800000"
+        }
+      },
+      "acceptedBy": {
+        "$ref": "employees",
+        "$id": {
+          "$oid": "620d48bdadfe14c5dc30093b"
+        }
+      }
+    }
+  ]
+}]

@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "620d47228a952b124bb98f34"
+  },
+  "literature": {
+    "$ref": "literature",
+    "$id": {
+      "$oid": "620d4bd5adfe14c5dc30097c"
+    }
+  },
+  "deliveryDate": {
+    "$date": {
+      "$numberLong": "1640383200000"
+    }
+  },
+  "library": {
+    "$ref": "libraries",
+    "$id": {
+      "$oid": "620d48dbadfe14c5dc300942"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620d47868a952b124bb98f35"
+  },
+  "literature": {
+    "$ref": "literature",
+    "$id": {
+      "$oid": "620d4bd5adfe14c5dc30097f"
+    }
+  },
+  "deliveryDate": {
+    "$date": {
+      "$numberLong": "1643673600000"
+    }
+  },
+  "library": {
+    "$ref": "libraries",
+    "$id": {
+      "$oid": "620d48dbadfe14c5dc300942"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620d47868a952b124bb98f36"
+  },
+  "literature": {
+    "$ref": "literature",
+    "$id": {
+      "$oid": "620d4bd5adfe14c5dc300982"
+    }
+  },
+  "deliveryDate": {
+    "$date": {
+      "$numberLong": "1639526400000"
+    }
+  },
+  "library": {
+    "$ref": "libraries",
+    "$id": {
+      "$oid": "620d48dbadfe14c5dc30093f"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620d4920adfe14c5dc300959"
+  },
+  "literature": {
+    "$ref": "literature",
+    "$id": {
+      "$oid": "620d4bd5adfe14c5dc300981"
+    }
+  },
+  "deliveryDate": {
+    "$date": {
+      "$numberLong": "1636588800000"
+    }
+  },
+  "library": {
+    "$ref": "libraries",
+    "$id": {
+      "$oid": "620d48dbadfe14c5dc30093f"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620d4920adfe14c5dc30095a"
+  },
+  "literature": {
+    "$ref": "literature",
+    "$id": {
+      "$oid": "620d4bd5adfe14c5dc30097d"
+    }
+  },
+  "deliveryDate": {
+    "$date": {
+      "$numberLong": "1625184000000"
+    }
+  },
+  "library": {
+    "$ref": "libraries",
+    "$id": {
+      "$oid": "620d48dbadfe14c5dc300940"
+    }
+  }
+}]

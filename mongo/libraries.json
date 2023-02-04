@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "620d48789872477145723794"
+  },
+  "number": 6,
+  "location": "вул. НазвиСвята, буд 12",
+  "roomsNumber": 4
+},{
+  "_id": {
+    "$oid": "620d48789872477145723795"
+  },
+  "number": 7,
+  "location": "вул. Імені, буд 13",
+  "roomsNumber": 6
+},{
+  "_id": {
+    "$oid": "620d48dbadfe14c5dc30093f"
+  },
+  "number": 1,
+  "location": "вул. АБВ, буд 1",
+  "roomsNumber": 3
+},{
+  "_id": {
+    "$oid": "620d48dbadfe14c5dc300940"
+  },
+  "number": 2,
+  "location": "вул. ГҐД, буд 2",
+  "roomsNumber": 4
+},{
+  "_id": {
+    "$oid": "620d48dbadfe14c5dc300941"
+  },
+  "number": 3,
+  "location": "вул. ЕЄЖ, буд 3",
+  "roomsNumber": 5
+},{
+  "_id": {
+    "$oid": "620d48dbadfe14c5dc300942"
+  },
+  "number": 4,
+  "location": "вул. ЗИІ, буд 4",
+  "roomsNumber": 6
+},{
+  "_id": {
+    "$oid": "620d48dbadfe14c5dc300943"
+  },
+  "number": 5,
+  "location": "вул. ЇЙК, буд 5",
+  "roomsNumber": 7
+}]

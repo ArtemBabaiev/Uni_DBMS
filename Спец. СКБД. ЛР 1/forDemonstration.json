@@ -1,0 +1,36 @@
+[
+
+        {
+            "name": "test",
+            "newNomenclatureNumber":"000000000",
+            "deliveryDate":{"$date": "2021-12-25"},
+            "numberOfLibrary": 4
+        },
+        {
+            "name": "test",
+            "newNomenclatureNumber":"000000003",
+            "deliveryDate":{"$date": "2022-02-01"},
+            "numberOfLibrary": 4
+        },
+        {
+            "name": "test",
+            "newNomenclatureNumber":"000000007",
+            "deliveryDate":{"$date": "2021-12-15"},
+            "numberOfLibrary": 1
+        },
+        {
+            "name": "test",
+            "newNomenclatureNumber":"000000005",
+            "deliveryDate":{"$date": "2021-11-11"} ,
+            "numberOfLibrary": 1
+        },
+        {
+            "name": "test",
+            "newNomenclatureNumber":"000000001",
+            "deliveryDate":{"$date": "2021-07-02"} ,
+            "numberOfLibrary": 2
+        }
+        
+    
+
+]

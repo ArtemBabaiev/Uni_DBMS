@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "620d4930adfe14c5dc30095d"
+  },
+  "fullName": "Бабаєв Артем Ілліч",
+  "phoneNumber": "+380969077503",
+  "residenceAddress": "вул. 28 червня, буд 23",
+  "birthYear": "2002",
+  "registrationDate": {
+    "$date": {
+      "$numberLong": "1609452000000"
+    }
+  },
+  "occupation": {
+    "$ref": "readersOcupation",
+    "$id": {
+      "$oid": "620d4938adfe14c5dc300965"
+    }
+  },
+  "educationalInstitution": "ЧНУ",
+  "faculty": "ННІФТКН",
+  "group": "243Б",
+  "subscription": {
+    "$ref": "subscriptions",
+    "$id": {
+      "$oid": "620d4941adfe14c5dc30096c"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620d4930adfe14c5dc30095e"
+  },
+  "fullName": "Бабаєв Єгор Ілліч",
+  "phoneNumber": "+380XXXXXXXXX",
+  "residenceAddress": "вул. Волкова 23",
+  "birthYear": 2009,
+  "registrationDate": {
+    "$date": {
+      "$numberLong": "1563656400000"
+    }
+  },
+  "occupation": {
+    "$ref": "readersOcupation",
+    "$id": {
+      "$oid": "620d4938adfe14c5dc300964"
+    }
+  },
+  "educationalInstitution": "Школа №71",
+  "class": "7",
+  "subscription": {
+    "$ref": "subscriptions",
+    "$id": {
+      "$oid": "620d4941adfe14c5dc30096d"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620d4930adfe14c5dc30095f"
+  },
+  "fullName": "Бабаєв Олексій Олекснадрович",
+  "phoneNumber": "+380XXXXXXXXX",
+  "residenceAddress": "м. Дніпро",
+  "birthYear": 1996,
+  "registrationDate": {
+    "$date": {
+      "$numberLong": "1602882000000"
+    }
+  },
+  "occupation": {
+    "$ref": "readersOcupation",
+    "$id": {
+      "$oid": "620d4938adfe14c5dc300967"
+    }
+  },
+  "workPlace": "Клініка Гарвіс",
+  "position": "Доктор",
+  "subscription": {
+    "$ref": "subscriptions",
+    "$id": {
+      "$oid": "620d4941adfe14c5dc30096e"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620d4930adfe14c5dc300960"
+  },
+  "fullName": "Прізвище ім'я по-батькові",
+  "phoneNumber": "+380XXXXXXXXX",
+  "residenceAddress": "вул. Імені ХХ",
+  "birthYear": 1979,
+  "registrationDate": {
+    "$date": {
+      "$numberLong": "1627938000000"
+    }
+  },
+  "occupation": {
+    "$ref": "readersOcupation",
+    "$id": {
+      "$oid": "620d4938adfe14c5dc300966"
+    }
+  },
+  "workPlace": "ЧНУ",
+  "position": "Доцент кафедри",
+  "subscription": {
+    "$ref": "subscriptions",
+    "$id": {
+      "$oid": "620d4941adfe14c5dc300970"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620d4930adfe14c5dc300961"
+  },
+  "fullName": "Іванов Іван Іванович",
+  "phoneNumber": "+380XXXXXXXXX",
+  "residenceAddress": "вул. Іванова 11",
+  "birthYear": 1990,
+  "registrationDate": {
+    "$date": {
+      "$numberLong": "1609452000000"
+    }
+  },
+  "occupation": {
+    "$ref": "readersOcupation",
+    "$id": {
+      "$oid": "620d4938adfe14c5dc300968"
+    }
+  },
+  "subscription": {
+    "$ref": "subscriptions",
+    "$id": {
+      "$oid": "620d4941adfe14c5dc30096f"
+    }
+  }
+}]

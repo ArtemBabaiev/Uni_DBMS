@@ -1,0 +1,27 @@
+[
+    {
+        "number": 1,
+        "location": "вул. АБВ, буд 1",
+        "numberOFRooms": 3
+    },
+    {
+        "number": 2,
+        "location": "вул. ГҐД, буд 2",
+        "numberOFRooms": 4
+    },
+    {
+        "number": 3,
+        "location": "вул. ЕЄЖ, буд 3",
+        "numberOFRooms": 5
+    },
+    {
+        "number": 4,
+        "location": "вул. ЗИІ, буд 4",
+        "numberOFRooms": 6
+    },
+    {
+        "number": 5,
+        "location": "вул. ЇЙК, буд 5",
+        "numberOFRooms": 7
+    }
+]

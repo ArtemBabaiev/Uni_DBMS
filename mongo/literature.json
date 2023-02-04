@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "620d4bd5adfe14c5dc30097c"
+  },
+  "nomenclatureNumber": "000000000",
+  "isLended": true,
+  "type": {
+    "$ref": "literatureType",
+    "$id": {
+      "$oid": "620d48fcadfe14c5dc300950"
+    }
+  },
+  "placeOfStorage": {
+    "library": {
+      "$ref": "libraries",
+      "$id": {
+        "$oid": "620d48dbadfe14c5dc300940"
+      }
+    },
+    "readingRoom": 2,
+    "bookcase": 9,
+    "shelf": 3
+  },
+  "readingPlace": "Дім",
+  "deadlineForLending": "1 month",
+  "name": "Гобіт, або туди і звідти",
+  "author": "Джон Роналд Руел Толкін",
+  "publisher": "Астролябія",
+  "yearOfPublishing": 2021
+},{
+  "_id": {
+    "$oid": "620d4bd5adfe14c5dc30097d"
+  },
+  "nomenclatureNumber": "000000001",
+  "isLended": false,
+  "type": {
+    "$ref": "literatureType",
+    "$id": {
+      "$oid": "620d48fcadfe14c5dc300950"
+    }
+  },
+  "placeOfStorage": {
+    "library": {
+      "$ref": "libraries",
+      "$id": {
+        "$oid": "620d48dbadfe14c5dc300942"
+      }
+    },
+    "readingRoom": 1,
+    "bookcase": 4,
+    "shelf": 5
+  },
+  "readingPlace": "Дім",
+  "deadlineForLending": "1 місяць",
+  "name": "Хрещений Батько",
+  "author": "Маріо П'юзо",
+  "publisher": "КСД",
+  "yearOfPublishing": 2017
+},{
+  "_id": {
+    "$oid": "620d4bd5adfe14c5dc30097e"
+  },
+  "nomenclatureNumber": "000000002",
+  "isLended": true,
+  "type": {
+    "$ref": "literatureType",
+    "$id": {
+      "$oid": "620d48fcadfe14c5dc300950"
+    }
+  },
+  "placeOfStorage": {
+    "library": {
+      "$ref": "libraries",
+      "$id": {
+        "$oid": "620d48dbadfe14c5dc300943"
+      }
+    },
+    "readingRoom": 2,
+    "bookcase": 5,
+    "shelf": 3
+  },
+  "readingPlace": "Дім",
+  "deadlineForLending": "1 місяць",
+  "name": "Країна Мумі-Тролів",
+  "author": "Туве Янссон",
+  "publisher": "Видавництво Старого Лева",
+  "yearOfPublishing": 2016
+},{
+  "_id": {
+    "$oid": "620d4bd5adfe14c5dc30097f"
+  },
+  "nomenclatureNumber": "000000003",
+  "isLended": false,
+  "type": {
+    "$ref": "literatureType",
+    "$id": {
+      "$oid": "620d48fcadfe14c5dc300950"
+    }
+  },
+  "placeOfStorage": {
+    "library": {
+      "$ref": "libraries",
+      "$id": {
+        "$oid": "620d48dbadfe14c5dc300942"
+      }
+    },
+    "readingRoom": 1,
+    "bookcase": 9,
+    "shelf": 4
+  },
+  "readingPlace": "Дім",
+  "deadlineForLending": "1 місяць",
+  "name": "Різдвяна свинка",
+  "author": "Джоан Роулінг",
+  "publisher": "Абабагаламага",
+  "yearOfPublishing": 2021
+},{
+  "_id": {
+    "$oid": "620d4bd5adfe14c5dc300980"
+  },
+  "nomenclatureNumber": "000000004",
+  "type": {
+    "$ref": "literatureType",
+    "$id": {
+      "$oid": "620d48fcadfe14c5dc300951"
+    }
+  },
+  "placeOfStorage": {
+    "library": {
+      "$ref": "libraries",
+      "$id": {
+        "$oid": "620d48789872477145723794"
+      }
+    },
+    "readingRoom": 4,
+    "bookcase": 3,
+    "shelf": 5
+  },
+  "readingPlace": "Бібліотека",
+  "name": "Черепашки ниндзя. Боевая четверка №17",
+  "publisher": "ООО <<Джи Фаббри Эдишинз>>",
+  "dateOfPublishing": "<2010-02-08>"
+},{
+  "_id": {
+    "$oid": "620d4bd5adfe14c5dc300981"
+  },
+  "nomenclatureNumber": "000000005",
+  "type": {
+    "$ref": "literatureType",
+    "$id": {
+      "$oid": "620d48fcadfe14c5dc300953"
+    }
+  },
+  "placeOfStorage": {
+    "library": {
+      "$ref": "libraries",
+      "$id": {
+        "$oid": "620d48dbadfe14c5dc300941"
+      }
+    },
+    "readingRoom": 1,
+    "bookcase": 2,
+    "shelf": 6
+  },
+  "readingPlace": "Бібліотека",
+  "name": "1000 творів з української мови та зарубіжної літератури для 5-11 класів",
+  "compilers": [
+    "Е.В. Білик",
+    "С.В.Музичук"
+  ],
+  "publisher": "ВКФ <<БАО>>",
+  "yearOfPublishing": 2009
+},{
+  "_id": {
+    "$oid": "620d4bd5adfe14c5dc300982"
+  },
+  "nomenclatureNumber": "000000006",
+  "type": {
+    "$ref": "literatureType",
+    "$id": {
+      "$oid": "620d48fcadfe14c5dc300956"
+    }
+  },
+  "placeOfStorage": {
+    "library": {
+      "$ref": "libraries",
+      "$id": {
+        "$oid": "620d48dbadfe14c5dc30093f"
+      }
+    },
+    "readingRoom": 1,
+    "bookcase": 2,
+    "shelf": 6
+  },
+  "readingPlace": "Бібліотека",
+  "name": "Фізика навчально-практичний довідник",
+  "publisher": "Ранок",
+  "yearOfPublishing": 2011,
+  "authors": [
+    "Ю.А. Соколович",
+    "Г.С. Богданова"
+  ]
+},{
+  "_id": {
+    "$oid": "620d4bd5adfe14c5dc300983"
+  },
+  "nomenclatureNumber": "000000007",
+  "type": {
+    "$ref": "literatureType",
+    "$id": {
+      "$oid": "620d48fcadfe14c5dc300956"
+    }
+  },
+  "placeOfStorage": {
+    "library": {
+      "$ref": "libraries",
+      "$id": {
+        "$oid": "620d48789872477145723795"
+      }
+    },
+    "readingRoom": 1,
+    "bookcase": 2,
+    "shelf": 6
+  },
+  "readingPlace": "Бібліотека",
+  "name": "Алгебра підручник для 9 класу",
+  "authors": [
+    "А.Г. Мерзляк",
+    "В.Б. Полонський",
+    "М.С. Якір"
+  ],
+  "publisher": "Гімназія",
+  "yearOfPublishing": 2009
+}]

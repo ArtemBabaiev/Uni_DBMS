@@ -1,0 +1,1 @@
+db.libraries.insertMany([{number: 6, location: "вул. НазвиСвята, буд 12", roomsNumber: 4},{number: 7, location: "вул. Імені, буд 13", roomsNumber: 6}])
